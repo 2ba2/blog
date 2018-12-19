@@ -1,4 +1,5 @@
 # array-uniq
+数组去重
 
 ## 来源
 - [GitHub](https://github.com/sindresorhus/array-uniq)
