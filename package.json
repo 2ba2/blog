@@ -17,6 +17,8 @@
   },
   "homepage": "https://github.com/2ba2/blog#readme",
   "dependencies": {
-    "koa": "^2.6.2"
+    "koa": "^2.6.2",
+    "lodash": "^4.17.11",
+    "ramda": "^0.26.1"
   }
 }
